@@ -1,0 +1,15 @@
+export const color01 = '#ffffff'; // White
+export const color02 = '#000000'; // Black
+export const color03 = '#8b3dff'; // Light violet
+export const color04 = '#b1ff3d'; // Light green
+export const color05 = '#3db1ff'; // Light blue
+export const color06 = '#008ff0'; // Pure (or mostly pure) blue
+export const color07 = '#a971ff'; // Very light violet
+export const color08 = '#00c4cc'; // Strong cyan
+export const color09 = '#007b80'; // Dark cyan
+export const color10 = '#9e77f3'; // Soft violet
+export const color11 = '#a1a7aa'; // Dark grayish blue
+export const color12 = '#d1d3d5'; // Grayish blue 
+export const color13 = '#cfcfcf'; // Light gray                                                        
+export const color14 = '#006400'; // Very dark lime green                                                            
+export const color15 = '#003366'; // Dark gray                                                            
